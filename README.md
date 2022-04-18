@@ -1,6 +1,6 @@
 # Loan-Analyzer
 
-Wlecome to my UW Module uploads, these files are for acidemic purposes only and will not be used by any finacial instatuion, company, or personal gain.
+Welcome to my loan analyzer, here we will be calculating various loans to see which one is right for us! When ready, hop into loan_analyzer.py and see what laon best suits you!
 
 Happy coding!
 
